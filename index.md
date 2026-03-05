@@ -7,4 +7,4 @@
 #
 layout: home
 ---
-  ![My photo](https://github.com/Antam5/Photos)
+![My photo](https://github.com/Antam5/Photos/blob/main/wind.jpeg)
