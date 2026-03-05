@@ -7,4 +7,7 @@
 #
 layout: home
 ---
-![My photo](https://github.com/Antam5/Photos/blob/main/wind.jpeg)
+<p align="center">
+  <img src="https://github.com/Antam5/Photos/blob/main/wind.jpeg" width="100">
+</p>
+
