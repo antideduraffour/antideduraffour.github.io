@@ -33,6 +33,9 @@
   <p><img src="/screenshot.png"/></p>
 </div>
 
+![wind](https://github.com/user-attachments/assets/e6c5d6cc-cb69-42dc-ba92-4e6e2fd36d52)
+
+
 ## Installation
 
 Add this line to your Jekyll site's Gemfile:
