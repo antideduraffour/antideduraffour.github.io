@@ -7,5 +7,5 @@
 #
 layout: home
 ---
-<img src="https://github.com/Antam5/Photos/blob/main/wind.png" width="300">
+![Pic](https://github.com/Antam5/Photos/blob/main/wind.png)
 
