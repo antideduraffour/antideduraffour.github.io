@@ -112,7 +112,7 @@
       display: block;
       padding: 5px 0;
       color: $text-color;
-      line-height: $base-line-height;
+      line-height: $base-line-height*.5;
     }
   }
 }
