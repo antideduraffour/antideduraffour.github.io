@@ -1,6 +1,6 @@
 ---
 layout: page
-title: activites
+title: Activités
 permalink: /activites/
 ---
 
