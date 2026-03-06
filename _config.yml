@@ -21,7 +21,7 @@ minima:
 
   nav_pages:
     - publications.md
-    - contact.md
+    - curiosities.md
     - cours.md
     - activites.md
     
