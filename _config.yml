@@ -23,6 +23,7 @@ minima:
     - publications.md
     - contact.md
     - cours.md
+    - activites.md
     
   show_excerpts: false
 
