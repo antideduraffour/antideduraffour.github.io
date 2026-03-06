@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List of publications and talks
-permalink: /publications/
+title: Cours
+permalink: /cours/
 ---
 In this page you will find the correction of TD exercices.
