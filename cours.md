@@ -6,6 +6,7 @@ permalink: /cours/
 In this page you will find exercices and their corrections for the courses I give since september 2026.
 
 **MAT101 - Université Grenoble Alpes**
+
 [Liste de Démonstrations à connaître](https://github.com/antideduraffour/MAT101/blob/main/Demos%20a%20connaitre.pdf)
 
 **Semaine 1**
