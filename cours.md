@@ -7,7 +7,7 @@ In this page you will find exercices and their corrections for the courses I giv
 
 **MAT101 - Université Grenoble Alpes**
 
-[Liste de Démonstrations à connaître](https://github.com/antideduraffour/MAT101/blob/main/Demos%20a%20connaitre.pdf)
+[Liste de démonstrations à connaître](https://github.com/antideduraffour/MAT101/blob/main/Demos%20a%20connaitre.pdf)
 
 **Semaine 1**
 
