@@ -33,3 +33,6 @@ In this page you will find exercices and their corrections for the courses I giv
 
 [Corrigé Feuille 2 - Semaine du 14 septembre 2026](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2014-09%20S2%20cor.pdf)
 
+[Feuille 2 - Semaine du 14 septembre 2026](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2014-09%20S3.pdf)
+
+[Corrigé Feuille 3 - Semaine du 14 septembre 2026](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2014-09%20S3%20cor.pdf)
