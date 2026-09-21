@@ -31,7 +31,7 @@ il explore très en profondeur une partie du cours MAT101.
 
 **Semaine 2**
 
-[Feuille 1 - Semaine du 14 septembre 2026](https://github.com/antideduraffour/MAT101/blob/main/TD%20semaine%20du%2014-09%20S1%20.pdf)
+[Feuille 1 - Semaine du 14 septembre 2026](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2014-09%20S1.pdf)
 
 [Corrigé Feuille 1 - Semaine du 14 septembre 2026](https://github.com/antideduraffour/MAT101/blob/main/TD%20semaine%20du%2014-09%20S1%20cor.pdf)
 
