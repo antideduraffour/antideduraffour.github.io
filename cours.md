@@ -16,6 +16,7 @@ Le fichier avec les démonstrations écrites est à venir
 **Correction des exercices**
 
 [Correction des exercices du chapitre 1](https://github.com/antideduraffour/MAT101/blob/main/exoscorrection_mat101_chap1.pdf)
+Ce corrigé n'a pas été rédigé par mes soins, il manque parfois de détails. Si vous voulez plus de détails vous pouvez vous référrer aux corrigés des séances de TD.
 
 **Semaine 1**
 
