@@ -7,13 +7,15 @@ In this page you will find exercices and their corrections for the courses I giv
 
 **MAT101 - Université Grenoble Alpes**
 
-Pour les anglophones, j'ai bien aimé la lecture du livre 
+**Chapitre 1 : Nombres Complexes**
 
-[Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) 
 
-il explore très en profondeur une partie du cours MAT101.
+[Liste de démonstrations à connaître](https://github.com/antideduraffour/MAT101/blob/main/Demos%20a%20connaitre.pdf) 
+Le fichier avec les démonstrations écrites est à venir
 
-[Liste de démonstrations à connaître](https://github.com/antideduraffour/MAT101/blob/main/Demos%20a%20connaitre.pdf)
+**Correction des exercices**
+
+[Correction Exercices du Chap 1](https://github.com/antideduraffour/MAT101/blob/main/exoscorrection_mat101_chap1.pdf)
 
 **Semaine 1**
 
