@@ -41,6 +41,14 @@ Le fichier avec les démonstrations écrites est à venir
 
 [Corrigé Feuille 2 - Semaine du 14 septembre 2026](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2014-09%20S2%20cor.pdf)
 
+**Semaine 3**
+[Feuille 1 - Semaine du 21 septembre ](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2021-09%20S1.pdf)
+
+[Feuille 2 - Semaine du 21 septembre](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2021-09%20S2.pdf)
+
+
+
+
 [Feuille 3 - Semaine du 14 septembre 2026](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2014-09%20S3.pdf)
 
 [Corrigé Feuille 3 - Semaine du 14 septembre 2026](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2014-09%20S3%20cor.pdf)
