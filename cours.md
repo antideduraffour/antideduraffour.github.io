@@ -9,7 +9,8 @@ In this page you will find exercices and their corrections for the courses I giv
 
 **Chapitre 1 : Nombres Complexes**
 
-** Contrôles **
+**Contrôles**
+
 [Corrigé du contrôle sur les nombres complexes](https://github.com/antideduraffour/MAT101/blob/main/CC1.pdf)
 
 [Liste de démonstrations à connaître](https://github.com/antideduraffour/MAT101/blob/main/Demos%20a%20connaitre.pdf) 
