@@ -58,9 +58,12 @@ Ce corrigé n'a pas été rédigé par mes soins, il manque parfois de détails.
 
 [Corrigé Feuille 1 - Semaine du 21 septembre](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2021-09%20S1%20cor.pdf)
 
+[Feuille 2 - Semaine du 21 septembre](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2021-09%20S2.pdf)
+
 [Corrigé Feuille 2 - Semaine du 21 septembre ](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2021-09%20S2%20cor.pdf)
 
+**Semaine 4**
 
+[Feuille d'exercice des séances 1 et 2 Semaine du 28 septembre](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2028-09%20S1%20Cor.pdf)
 
-[Feuille 2 - Semaine du 21 septembre](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2021-09%20S2.pdf)
 
