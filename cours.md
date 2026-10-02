@@ -16,6 +16,8 @@ In this page you will find exercices and their corrections for the courses I giv
 [Liste de démonstrations à connaître](https://github.com/antideduraffour/MAT101/blob/main/Demos%20a%20connaitre.pdf) 
 Le fichier avec les démonstrations écrites est à venir
 
+[Exercices supplémentaires de théorie des ensembles](https://www.bibmath.net/ressources/index.php?action=affiche&quoi=bde/logique/ensemble&type=fexo)
+
 **Correction des exercices**
 
 [Correction des exercices du chapitre 1](https://github.com/antideduraffour/MAT101/blob/main/exoscorrection_mat101_chap1.pdf)
