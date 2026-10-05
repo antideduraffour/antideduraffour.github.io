@@ -66,7 +66,7 @@ Ce corrigé n'a pas été rédigé par mes soins, il manque parfois de détails.
 
 **Semaine 4**
 
-[Feuille d'exercice des séances 1 et 2 Semaine du 28 septembre](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2028-09%20S1.pdf)
+[Feuille d'exercice des séances 1, 2 et 3 Semaine du 28 septembre](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2028-09%20S1.pdf)
 
 [Corrigés exercices 2.1 à 2.3](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2028-09%20S1%20Cor.pdf)
 
