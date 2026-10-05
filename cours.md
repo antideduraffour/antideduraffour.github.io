@@ -70,4 +70,6 @@ Ce corrigé n'a pas été rédigé par mes soins, il manque parfois de détails.
 
 [Corrigés exercices 2.1 à 2.3](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2028-09%20S1%20Cor.pdf)
 
+[Corrigés des exercices 2.4, 2.5 et 2.8](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2028-09%20S2%20Cor.pdf)
+
 
