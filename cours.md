@@ -78,5 +78,8 @@ Ce corrigé n'a pas été rédigé par mes soins, il manque parfois de détails.
 
 [Corrigé de la Feuille d'exercice de la séance 1 de TD](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2005-10%20S1%20Cor.pdf)
 
+[Feuille d'exercice de la séance 2 de TD](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2005-10%20S2.pdf)
+
+[Corrigé Feuille d'exercice de la séance 2 de TD](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2005-10%20S2%20Cor.pdf)
 
 
