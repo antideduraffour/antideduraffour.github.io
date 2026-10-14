@@ -20,7 +20,10 @@ Le fichier avec les démonstrations écrites est à venir
 
 **Correction des exercices**
 
-[Correction des exercices du chapitre 1](https://github.com/antideduraffour/MAT101/blob/main/exoscorrection_mat101_chap1.pdf)
+[Correction des exercices du chapitre 1 : nombres complexes](https://github.com/antideduraffour/MAT101/blob/main/exoscorrection_mat101_chap1.pdf)
+Ce corrigé n'a pas été rédigé par mes soins, il manque parfois de détails. Si vous voulez plus de détails vous pouvez vous référrer aux corrigés des séances de TD ci-dessous.
+
+[Correction des exercices du chapitre 2 : ensembles et langage](https://github.com/antideduraffour/MAT101/blob/main/Exercices%20Corriges%20Langage%20Maths.pdf)
 Ce corrigé n'a pas été rédigé par mes soins, il manque parfois de détails. Si vous voulez plus de détails vous pouvez vous référrer aux corrigés des séances de TD ci-dessous.
 
 [Exercices supplémentaires sur les nombres complexes](http://michel.quercia.free.fr/alg%C3%A8bre-g%C3%A9n%C3%A9rale/complexe.pdf) Suite à la demande d'un élève
