@@ -86,6 +86,7 @@ Ce corrigé n'a pas été rédigé par mes soins, il manque parfois de détails.
 [Corrigé Feuille d'exercice de la séance 2 de TD](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2005-10%20S2%20Cor.pdf)
 
 **Semaine 6**
+
 [Feuille d'exercices](https://github.com/antideduraffour/MAT101/blob/main/TD%20Semaine%20du%2012-10.pdf)
 
 
