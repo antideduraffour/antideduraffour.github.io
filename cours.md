@@ -13,6 +13,10 @@ In this page you will find exercices and their corrections for the courses I giv
 
 [Corrigé du contrôle sur les nombres complexes](https://github.com/antideduraffour/MAT101/blob/main/CC1.pdf)
 
+[Partiel de mi semestre](https://github.com/antideduraffour/MAT101/blob/main/26-27_partiel.pdf)
+
+[Corrigé du partiel de mi semestre](https://github.com/antideduraffour/MAT101/blob/main/corrige_partiel_MAT101.pdf)
+
 [Liste de démonstrations à connaître](https://github.com/antideduraffour/MAT101/blob/main/Demos%20a%20connaitre.pdf) 
 Le fichier avec les démonstrations écrites est à venir
 
