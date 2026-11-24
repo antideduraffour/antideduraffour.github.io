@@ -11,6 +11,8 @@ In this page you will find exercices and their corrections for the courses I giv
 
 **Contrôles**
 
+[Corrigé du contrôle sur le chapitre 2](https://github.com/antideduraffour/MAT101/blob/main/contr%C3%B4le%202%20corr.pdf)
+
 [Corrigé du contrôle sur les nombres complexes](https://github.com/antideduraffour/MAT101/blob/main/CC1.pdf)
 
 [Partiel de mi semestre](https://github.com/antideduraffour/MAT101/blob/main/26-27_partiel.pdf)
